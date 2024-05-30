@@ -5,4 +5,4 @@ This repo contains my dotfiles for:
 - tmux;
 - vscode (I should remove this soon, since vscode has now a profile sync).
 - kitty;
-- nvim (I will add it soon).
+- nvim (currently i am using the [LazyVim](www.lazyvim.org) with some plugins).
